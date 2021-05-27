@@ -1,0 +1,24 @@
+{
+  "name": "stripe_linebot",
+  "version": "1.0.0",
+  "description": "ストライプの決済連携テスト",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoue2002/stripe_linebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inoue2002/stripe_linebot/issues"
+  },
+  "homepage": "https://github.com/inoue2002/stripe_linebot#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.3.0",
+    "stripe": "^8.150.0"
+  }
+}
